@@ -3,8 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-import pandas as pd
-
 data = pd.read_csv(
     r"C:\Users\Yuvaraj\OneDrive\Pictures\New folder\python\sales_data.csv", 
 )
@@ -62,5 +60,6 @@ plt.figure(figsize=(7,7))
 region_sales.plot(kind='pie', autopct='%1.1f%%', startangle=90, title='Sales by Region')
 plt.ylabel("")
 plt.show()
+
 
 
