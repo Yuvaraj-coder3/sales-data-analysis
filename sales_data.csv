@@ -1,0 +1,11 @@
+OrderID,Product,Category,Quantity,Price,Date,Region
+1001,Laptop,Electronics,2,50000,2025-01-15,North
+1002,Mouse,Electronics,5,500,2025-01-18,South
+1003,Chair,Furniture,3,2500,2025-02-05,East
+1004,Desk,Furniture,1,5000,2025-02-10,West
+1005,Headphones,Electronics,4,1500,2025-02-15,North
+1006,Table,Furniture,2,3000,2025-03-01,South
+1007,Monitor,Electronics,3,12000,2025-03-05,East
+1008,Keyboard,Electronics,6,800,2025-03-10,West
+1009,Sofa,Furniture,1,15000,2025-03-15,North
+1010,Printer,Electronics,2,7000,2025-03-20,South
